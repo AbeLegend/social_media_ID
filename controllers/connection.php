@@ -1,8 +1,8 @@
 <?php
 $database_hostname = 'localhost';
-$database_username = 'root';
-$database_password = '';
-$database_name     = 'social_media_ID';
+$database_username = 'id16063954_root';
+$database_password = 'kSK8PH|MTk?*\Qi@';
+$database_name     = 'id16063954_social_media_id';
 
 try {
     $conn = new PDO(
